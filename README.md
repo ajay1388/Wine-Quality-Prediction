@@ -33,11 +33,22 @@
     * **Random Forest**
     
 ## Accuracy
+
+  * **If Threshold id 0.00**
+  
+  |    **Models**     |  **Score**  |
+  |---------------|:-------:|
+  |  **Naive Bayes**  |  **56.00%** |
+  | **Decision Tree** |  **64.50%** |
+  | **Random Forest** |  **71.75%** |
+  
+  * **If Threshold is 0.05**
+  
   |    **Models**     |  **Score**  |
   |---------------|:-------:|
   |  **Naive Bayes**  |  **56.75%** |
   | **Decision Tree** |  **61.75%** |
   | **Random Forest** |  **72.25%** |
   
-  The Best Accuracy after predicting is of Random Forest(**73%**)
+  The Best Accuracy after predicting is when threshold is **0.05** and model is Random Forest(**73%**)
   
