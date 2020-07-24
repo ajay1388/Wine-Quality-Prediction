@@ -34,7 +34,7 @@
     
 ## Accuracy
 
-  * **If Threshold id 0.00**
+  * **If features having values above 0.00 is considered**
   
   |    **Models**     |  **Score**  |
   |---------------|:-------:|
@@ -42,7 +42,7 @@
   | **Decision Tree** |  **64.50%** |
   | **Random Forest** |  **71.75%** |
   
-  * **If Threshold is 0.05**
+  * **If features having values above 0.05 is considered**
   
   |    **Models**     |  **Score**  |
   |---------------|:-------:|
